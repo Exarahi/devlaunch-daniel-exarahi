@@ -5,5 +5,12 @@ necesidad de intermediarios como bancos o gobiernos. Fue creada en 2009 por una 
 bajo el seudónimo de Satoshi Nakamoto. Funciona sobre una tecnología llamada blockchain, que es 
 un registro público y seguro de todas las transacciones realizadas con Bitcoin.
 
+Algunas características clave de Bitcoin:
+- Descentralización: No está controlado por ninguna entidad.
+- Transparencia: Todas las transacciones quedan registradas en la blockchain.
+- Seguridad: Usa criptografía avanzada para proteger las transacciones.
+- Escasez: Solo existirán 21 millones de bitcoins en total.
+Si te interesa profundizar en su funcionamiento, puedes revisar este artículo o esta guía. ¿Quieres saber más sobre cómo comprar o usar Bitcoin? 
+
 
 
