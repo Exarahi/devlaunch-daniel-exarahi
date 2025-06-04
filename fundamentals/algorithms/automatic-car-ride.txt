@@ -1,0 +1,19 @@
+ Proporciona una explicacion en un archivo .txt de las acciones que
+ realizarias al prepararte para conducir un coche automatico.
+
+ Este ejercicio esta disenado para ayudarte a entender los conceptos basicos de los 
+ algoritmos al darte un ejemplo del mundo real sobre como llevar tu coche a dar un paseo.
+
+
+
+ SOLUCION:
+
+ Dirigirse al
+ Abrir el vehiculo
+ Abordar el vahiculo
+ Introducir la llave
+ Encender el vahiculo
+ Colocarse el cinturon
+ Quitar el freno de mano
+ Seleccionar la marcha 
+ Accelerar y guiar el volante en direccion a tu destino
