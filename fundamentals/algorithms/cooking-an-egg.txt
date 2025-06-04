@@ -1,0 +1,19 @@
+Proporciona una explicacion detallada en un archivo .txt de las acciones que realizarias
+al cocinar un huevo.
+
+SOLUCION:
+
+Conseguir el huevo (comprarlo si es necesario)
+obtener un sarten
+ubicarlo sobre la cocina
+verificar si hay electricidad
+prender la cocina
+regular la temperatura
+agregar aceite o mantequilla
+romper el huevo
+verterlo sobre el sarten
+girar el huevo depende como se quiera cocinar
+esperar a que se cocine
+agregar sal
+retirar el huevo
+disfrutar
