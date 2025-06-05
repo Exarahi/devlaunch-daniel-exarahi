@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Exarahi/devlaunch-daniel-exarahi/issues"
   },
-  "homepage": "https://github.com/Exarahi/devlaunch-daniel-exarahi#readme"
+  "homepage": "https://github.com/Exarahi/devlaunch-daniel-exarahi#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
