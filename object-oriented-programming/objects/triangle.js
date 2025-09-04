@@ -1,11 +1,11 @@
 /*
 
-Un triangulo, una forma geometrica fundamental, es un poligono caracterizado por tener tre lados
+Un triangulo, una forma geometrica fundamental, es un poligono caracterizado por tener tres lados
 y tres vertices. De acuerdo con el teorema de la desigualdad del triangulo, en cualquier triangulo
 calido, la suma de las longitudes de dos lados calesquiera debe ser mayor que la longitud del
 tercer lado.
 
-Tu tare es crea un objeto que represente un triangulo.
+Tu tarea es crear un objeto que represente un triangulo.
 
 Este objeto debe tener tres propiedades, cada una correspondiente a uno de sus lados.
 
